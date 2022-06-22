@@ -1,4 +1,4 @@
-{{
+{
   "Ads":
   [
     {
@@ -20,27 +20,8 @@
       "status_app": "0",
       "link_redirect": "https://"
     }
-  ],
-
-  "More":
-  [
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":""
-    }
-    
-  ],
-  "Skin":
-  [
-    {
-      "id":1,
-      "judul":"",
-      "image":"",
-      "link":""
-    }
-  ],
+  ]
+,
   "Skin":
   [
     {
